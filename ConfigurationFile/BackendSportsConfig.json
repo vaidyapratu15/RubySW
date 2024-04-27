@@ -1,0 +1,23 @@
+{
+///////////////////////////////////FP-BOOK-UAT///////////////////////////////////////////////////////////
+	"baseUrl1" : "https://backendtest.fairplaysports.co/#!/login",
+    "password1": "M0nDa7F0N@1Y",
+    "username1": "masternewfp",
+    
+///////////////////////////////////FP-BOOK-PROD///////////////////////////////////////////////////////////
+	"baseUrl1" : "https://backend.fairplay1.in/#!/login ",
+    "password1": "Abcd@1234",
+    "username1": "mtesting1",
+    
+///////////////////////////////////Superwin-BOOK-UAT///////////////////////////////////////////////////////////
+	"baseUrl" : "https://backend.playgames365.co/#!/login",
+    "password": "Qwer@123",
+    "username": "testankita",
+    
+    
+ ///////////////////////////////////Superwin-BOOK-PROD///////////////////////////////////////////////////////////
+	"baseUrl" : "https://backend.playexchwin.com/#!/login",
+    "password": "Asdfg@12345",
+    "username": "masternewbook"
+    
+}
